@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GerberLayoutSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LoadedOutlines>
+    <string>C:\Users\Pablo\Documents\UPV\Makers UPV\Proyectos\Arbolito - Tronco 1\Arbolito 1 Gerber\Arbolito 1 Gerbers</string>
+    <string>C:\Users\Pablo\Documents\UPV\Makers UPV\Proyectos\Arbolito\Base Gerbers\Panelizer</string>
+    <string>C:\Users\Pablo\Documents\UPV\Makers UPV\Proyectos\Arbolito - Tronco 2\Gerbers Arbol 2\Prima</string>
+  </LoadedOutlines>
+  <Instances>
+    <GerberInstance>
+      <Center>
+        <X>-105.537921</X>
+        <Y>130</Y>
+      </Center>
+      <Angle>0</Angle>
+      <GerberPath>C:\Users\Pablo\Documents\UPV\Makers UPV\Proyectos\Arbolito - Tronco 1\Arbolito 1 Gerber\Arbolito 1 Gerbers</GerberPath>
+      <Generated>false</Generated>
+    </GerberInstance>
+    <GerberInstance>
+      <Center>
+        <X>0</X>
+        <Y>140</Y>
+      </Center>
+      <Angle>0</Angle>
+      <GerberPath>C:\Users\Pablo\Documents\UPV\Makers UPV\Proyectos\Arbolito\Base Gerbers\Panelizer</GerberPath>
+      <Generated>false</Generated>
+    </GerberInstance>
+    <GerberInstance>
+      <Center>
+        <X>220</X>
+        <Y>-27</Y>
+      </Center>
+      <Angle>180</Angle>
+      <GerberPath>C:\Users\Pablo\Documents\UPV\Makers UPV\Proyectos\Arbolito - Tronco 2\Gerbers Arbol 2\Prima</GerberPath>
+      <Generated>false</Generated>
+    </GerberInstance>
+  </Instances>
+  <Tabs>
+    <BreakTab>
+      <Center>
+        <X>53</X>
+        <Y>77</Y>
+      </Center>
+      <Angle>0</Angle>
+      <Radius>3</Radius>
+      <Valid>false</Valid>
+    </BreakTab>
+    <BreakTab>
+      <Center>
+        <X>61</X>
+        <Y>25</Y>
+      </Center>
+      <Angle>0</Angle>
+      <Radius>3</Radius>
+      <Valid>false</Valid>
+    </BreakTab>
+    <BreakTab>
+      <Center>
+        <X>60</X>
+        <Y>50</Y>
+      </Center>
+      <Angle>0</Angle>
+      <Radius>3</Radius>
+      <Valid>false</Valid>
+    </BreakTab>
+    <BreakTab>
+      <Center>
+        <X>105</X>
+        <Y>55</Y>
+      </Center>
+      <Angle>0</Angle>
+      <Radius>3</Radius>
+      <Valid>false</Valid>
+    </BreakTab>
+    <BreakTab>
+      <Center>
+        <X>112</X>
+        <Y>80</Y>
+      </Center>
+      <Angle>0</Angle>
+      <Radius>3</Radius>
+      <Valid>false</Valid>
+    </BreakTab>
+    <BreakTab>
+      <Center>
+        <X>103</X>
+        <Y>27</Y>
+      </Center>
+      <Angle>0</Angle>
+      <Radius>3</Radius>
+      <Valid>false</Valid>
+    </BreakTab>
+    <BreakTab>
+      <Center>
+        <X>103</X>
+        <Y>73</Y>
+      </Center>
+      <Angle>0</Angle>
+      <Radius>3</Radius>
+      <Valid>false</Valid>
+    </BreakTab>
+  </Tabs>
+  <Width>200</Width>
+  <Height>200</Height>
+  <MarginBetweenBoards>2</MarginBetweenBoards>
+  <ConstructNegativePolygon>false</ConstructNegativePolygon>
+  <FillOffset>3</FillOffset>
+  <Smoothing>1</Smoothing>
+  <ExtraTabDrillDistance>0</ExtraTabDrillDistance>
+  <ClipToOutlines>true</ClipToOutlines>
+  <LastExportFolder />
+  <DoNotGenerateMouseBites>false</DoNotGenerateMouseBites>
+  <MergeFileTypes>false</MergeFileTypes>
+</GerberLayoutSet>
