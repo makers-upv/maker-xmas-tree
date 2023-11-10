@@ -1,4 +1,4 @@
-21581213916504186
+21584615282005033
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -60752,6 +60752,20 @@ Buzzer
 0
 4
 2
+Library
+Pad_tree_Data
+
+
+0
+1
+1
+Library
+Pad_tree_PS
+
+
+0
+1
+1
 Library
 SW_DPDT_CK_JS202011JCQN
 Sub-miniature slide switch, vertical, SMT J bend https://dznh3ojzb2azq.cloudfront.net/products/Slide/JS/documents/datasheet.pdf
