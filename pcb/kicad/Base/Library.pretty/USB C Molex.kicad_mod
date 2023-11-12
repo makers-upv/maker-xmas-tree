@@ -319,7 +319,7 @@
       f453dd32-8c83-48f6-bfc5-67049d195a0e
     )
   )
-  (model "${KICAD7_3DMODEL_DIR}/USB_C_Molex_2169900002.3dshapes/USB_C_Molex_2169900002.stp"
+  (model "${KIPRJMOD}/Library.pretty/3dmodels/USB_C_Molex_2169900002.3dshapes/USB_C_Molex_2169900002.stp"
     (offset (xyz 0 0 1.2))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))
