@@ -1,4 +1,4 @@
-21576149106427083
+21576149107122524
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -60736,7 +60736,7 @@ LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
 https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
 LED RGB NeoPixel
 0
-4
+8
 4
 Library
 Output
