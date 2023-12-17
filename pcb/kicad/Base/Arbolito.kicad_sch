@@ -3538,7 +3538,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 255.27 85.09 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid 09a1d1a6-8120-46d6-a4c5-eb4b8eda573f)
     (property "Reference" "R15" (at 252.73 86.36 90)
       (effects (font (size 1.27 1.27)))
@@ -3626,12 +3626,6 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/2_Humidity_Sensors/Datasheets/Sensirion_Humidity_Sensors_SHT3x_Datasheet_digital.pdf" (at 107.95 171.45 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "dnp" "" (at 107.95 172.72 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Field5" "" (at 107.95 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 22032096-b5c8-4fb9-b33a-19048e37dab0))
@@ -3874,7 +3868,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 124.46 96.52 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid 24c971f7-17d0-4668-9491-42912d22560e)
     (property "Reference" "R6" (at 125.73 93.98 90)
       (effects (font (size 1.27 1.27)))
@@ -3946,7 +3940,7 @@
   )
 
   (symbol (lib_name "S8050_1") (lib_id "Transistor_BJT:S8050") (at 135.89 125.73 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 2d8beb47-bc75-4d94-9baa-1e31587a56cb)
     (property "Reference" "Q1" (at 140.97 127.0001 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4091,8 +4085,8 @@
     (pin "1" (uuid 54f7911a-b985-49c5-a2cf-9c4a6817989f))
     (pin "2" (uuid 0907c85d-31e1-41f3-8adb-7d104584a772))
     (pin "3" (uuid 522b46c9-2be9-433b-a2ca-470fcc12022f))
-    (pin "5" (uuid 81e46af5-0217-4062-8e4d-691dc87975f5))
-    (pin "5" (uuid 81e46af5-0217-4062-8e4d-691dc87975f5))
+    (pin "5" (uuid 81e46af5-0217-4062-8e4d-691dc87975f6))
+    (pin "5" (uuid 81e46af5-0217-4062-8e4d-691dc87975f6))
     (instances
       (project "Arbolito"
         (path "/b25a3f48-89a6-49ff-b959-7dc4c52bd0bc"
@@ -4129,7 +4123,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 124.46 125.73 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid 45df561c-79b7-48ef-931c-b5ed6fb6f368)
     (property "Reference" "R5" (at 125.73 123.19 90)
       (effects (font (size 1.27 1.27)))
@@ -4337,7 +4331,7 @@
   )
 
   (symbol (lib_id "Interface_USB:CH340C") (at 90.17 97.79 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 688100f1-8fa8-4c83-944f-2c16df848d57)
     (property "Reference" "U2" (at 92.5956 113.03 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4377,7 +4371,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 21.59 180.34 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid 68865ec2-ae21-4231-80be-99081fdc9d3a)
     (property "Reference" "R20" (at 19.05 181.61 90)
       (effects (font (size 1.27 1.27)))
@@ -4428,12 +4422,12 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 260.35 36.83 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid 6aa2e5fa-3b0e-43e8-94f1-f221c21997cc)
     (property "Reference" "SW3" (at 261.6201 40.64 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "SW_Push" (at 259.0801 40.64 90)
+    (property "Value" "SW_Push" (at 261.62 43.18 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Library:Button" (at 260.35 41.91 0)
@@ -4554,7 +4548,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 44.45 167.64 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid 72a83564-305e-4e4c-bdb9-b88787d35c7c)
     (property "Reference" "R3" (at 41.91 170.18 90)
       (effects (font (size 1.27 1.27)))
@@ -4935,12 +4929,12 @@
   )
 
   (symbol (lib_name "SW_Push_2") (lib_id "Switch:SW_Push") (at 55.88 176.53 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 8b015d26-73ec-4164-b25d-b3ccd40e0f79)
     (property "Reference" "SW2" (at 57.1501 180.34 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "SW_Push" (at 54.6101 180.34 90)
+    (property "Value" "SW_Push" (at 57.15 182.88 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Library:Button" (at 57.15 181.61 0)
@@ -4961,7 +4955,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 68.58 80.01 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 8b2bf7ae-e9d4-4f79-8b5a-5d4a430217f1)
     (property "Reference" "C11" (at 72.39 78.7399 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5113,7 +5107,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x06_Female") (at 72.39 173.99 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid 93ab05c4-0eef-441d-accd-600152352b3a)
     (property "Reference" "J2" (at 73.025 161.29 0)
       (effects (font (size 1.27 1.27)))
@@ -5168,7 +5162,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 255.27 95.25 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 95120e77-0a27-49c7-a07f-3927241dcc54)
     (property "Reference" "D2" (at 259.08 95.5674 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -5219,7 +5213,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 250.19 29.21 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid 997273d5-449b-4fff-b2b9-0af985db18f6)
     (property "Reference" "R13" (at 248.92 26.67 90)
       (effects (font (size 1.27 1.27)))
@@ -5322,7 +5316,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 44.45 177.8 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 9c6feda9-324f-4674-87dd-bc28a7465b97)
     (property "Reference" "D1" (at 48.26 178.1174 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -5529,7 +5523,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 113.03 80.01 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid ae2006f7-337c-450f-bd34-589fc9a0cfa9)
     (property "Reference" "C4" (at 116.84 78.7399 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5555,7 +5549,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 255.27 105.41 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid afcce1ee-f3db-4cf6-a31c-e6a807ca2b68)
     (property "Reference" "R16" (at 252.73 106.68 90)
       (effects (font (size 1.27 1.27)))
@@ -5632,7 +5626,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 21.59 163.83 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid b8e3cfcf-9b64-4364-9810-244bcf8c4f91)
     (property "Reference" "R21" (at 19.05 165.1 90)
       (effects (font (size 1.27 1.27)))
@@ -5733,7 +5727,7 @@
   )
 
   (symbol (lib_name "SW_Push_1") (lib_id "Switch:SW_Push") (at 262.89 118.11 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid d825044d-0620-4249-a5d8-02c09a7d0680)
     (property "Reference" "SW4" (at 266.7 119.38 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6039,7 +6033,7 @@
   )
 
   (symbol (lib_name "S8050_1") (lib_id "Transistor_BJT:S8050") (at 135.89 96.52 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid f5221554-8e22-4c9c-8f4e-1c6a4f419f26)
     (property "Reference" "Q2" (at 140.97 95.2499 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6243,7 +6237,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 270.51 105.41 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid ff5a6f43-7729-47a0-bbbb-0b8234ad8e17)
     (property "Reference" "R19" (at 267.97 106.68 90)
       (effects (font (size 1.27 1.27)))

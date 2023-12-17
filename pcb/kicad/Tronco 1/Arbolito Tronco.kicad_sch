@@ -639,7 +639,7 @@
     (property "Datasheet" "~" (at 27.94 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid facef99f-c786-4132-8804-8845779ea340))
+    (pin "1" (uuid 414c6813-3705-44c8-956f-e1aa68c7a8f0))
     (instances
       (project "Arbolito Tronco"
         (path "/b25a3f48-89a6-49ff-b959-7dc4c52bd0bc"
@@ -1087,7 +1087,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 88.9 119.38 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid 6a5b7427-10b2-4e37-bc92-225c60c7194c)
     (property "Reference" "C2" (at 91.44 118.11 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1216,7 +1216,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 123.19 119.38 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid 8f72f355-a259-4dcb-b711-f8bb1978b327)
     (property "Reference" "C5" (at 125.73 118.11 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1256,7 +1256,7 @@
     (property "Datasheet" "~" (at 27.94 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6c53659e-16fa-4350-978e-094f6b86a8eb))
+    (pin "1" (uuid 08e48919-2dad-457e-a676-e6e028fd618d))
     (instances
       (project "Arbolito Tronco"
         (path "/b25a3f48-89a6-49ff-b959-7dc4c52bd0bc"
@@ -1295,7 +1295,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 134.62 119.38 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid 9b35f80f-0feb-4886-929a-9f44a801c877)
     (property "Reference" "C6" (at 137.16 118.11 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1549,7 +1549,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 77.47 119.38 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid daab0795-acad-4f9b-b5bb-75526d9a09a6)
     (property "Reference" "C1" (at 80.01 118.11 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1600,7 +1600,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 100.33 119.38 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid e19c7dfc-fcb0-4560-84a3-5d7cb69ecc5f)
     (property "Reference" "C3" (at 102.87 118.11 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1626,7 +1626,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 111.76 119.38 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid e61d6f9e-7e6e-4e69-9112-1cc677c801bf)
     (property "Reference" "C4" (at 114.3 118.11 0)
       (effects (font (size 1.27 1.27)) (justify left))
