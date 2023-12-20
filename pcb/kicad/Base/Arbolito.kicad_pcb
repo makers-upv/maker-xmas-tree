@@ -3045,6 +3045,7 @@
     (tags "solder jumper open")
     (property "Sheetfile" "Arbolito.kicad_sch")
     (property "Sheetname" "")
+    (property "dnp" "")
     (property "ki_description" "Solder Jumper, 2-pole, open")
     (property "ki_keywords" "solder jumper SPST")
     (path "/cb437329-94f1-4630-aba8-8606f3c2f9af")

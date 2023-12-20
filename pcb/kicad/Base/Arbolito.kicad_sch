@@ -4085,8 +4085,8 @@
     (pin "1" (uuid 54f7911a-b985-49c5-a2cf-9c4a6817989f))
     (pin "2" (uuid 0907c85d-31e1-41f3-8adb-7d104584a772))
     (pin "3" (uuid 522b46c9-2be9-433b-a2ca-470fcc12022f))
-    (pin "5" (uuid 81e46af5-0217-4062-8e4d-691dc87975f6))
-    (pin "5" (uuid 81e46af5-0217-4062-8e4d-691dc87975f6))
+    (pin "5" (uuid 81e46af5-0217-4062-8e4d-691dc87975f7))
+    (pin "5" (uuid 81e46af5-0217-4062-8e4d-691dc87975f7))
     (instances
       (project "Arbolito"
         (path "/b25a3f48-89a6-49ff-b959-7dc4c52bd0bc"
@@ -5652,13 +5652,13 @@
   )
 
   (symbol (lib_id "Jumper:SolderJumper_2_Open") (at 114.3 26.67 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid cb437329-94f1-4630-aba8-8606f3c2f9af)
     (property "Reference" "JP1" (at 114.3 24.13 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SolderJumper_2_Open" (at 118.11 29.21 0)
-      (effects (font (size 1.27 1.27)))
+      (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" (at 114.3 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
