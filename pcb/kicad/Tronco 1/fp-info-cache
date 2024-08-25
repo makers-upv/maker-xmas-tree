@@ -1,4 +1,4 @@
-21571050098191683
+21576149395480397
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -60724,6 +60724,27 @@ Battery
 0
 4
 3
+Library
+Input
+
+
+0
+2
+1
+Library
+LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
+https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+LED RGB NeoPixel
+0
+8
+4
+Library
+Output
+
+
+0
+2
+1
 Library
 USB C Molex
 http://www.palpilot.com/wp-content/uploads/2017/05/UTC027-GKN-OR-Rev-A.pdf
