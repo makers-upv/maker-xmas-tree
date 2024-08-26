@@ -616,10 +616,28 @@
 		(uuid "16af0679-e86c-41d9-955b-27da2dad1257")
 	)
 	(junction
+		(at 45.72 139.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2543d3c2-7dff-4603-9fec-fe392ab70df6")
+	)
+	(junction
+		(at 45.72 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2deb9ad1-5886-4b38-8238-a9b62d06ed8e")
+	)
+	(junction
 		(at 88.9 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "34f98c3c-eb97-413c-b2c9-28dd4327ccf9")
+	)
+	(junction
+		(at 45.72 123.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3760fc93-9ce5-48c4-a791-0f94bedbee74")
 	)
 	(junction
 		(at 22.86 123.19)
@@ -670,10 +688,22 @@
 		(uuid "90c9e641-63a3-46e4-af73-b7a0b0288efb")
 	)
 	(junction
+		(at 222.25 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c3a5202f-6624-44e6-ba89-385e8dcf0968")
+	)
+	(junction
 		(at 100.33 127)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cc7d6d6b-f471-42a1-85a2-ade48f9c6c79")
+	)
+	(junction
+		(at 222.25 139.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cca943b1-9fff-4aae-a7e0-78b02ad659c5")
 	)
 	(junction
 		(at 248.92 124.46)
@@ -698,6 +728,22 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e30f8f91-72ef-466a-ae9d-0a8fc35714b9")
+	)
+	(junction
+		(at 222.25 123.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f5a5bac7-c416-4cbf-9d81-79e54917e598")
+	)
+	(wire
+		(pts
+			(xy 222.25 106.68) (xy 222.25 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0284ea31-6a4c-4ece-98f5-34c221369dc9")
 	)
 	(wire
 		(pts
@@ -738,6 +784,16 @@
 			(type default)
 		)
 		(uuid "1965674e-d8cb-4088-bdb7-74d57e1f6241")
+	)
+	(wire
+		(pts
+			(xy 45.72 139.7) (xy 45.72 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1fcaf546-4418-4329-80be-50d5c00304f0")
 	)
 	(wire
 		(pts
@@ -791,6 +847,16 @@
 	)
 	(wire
 		(pts
+			(xy 222.25 121.92) (xy 222.25 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29a2ee58-4ea4-4ede-a090-83c8bd1f226f")
+	)
+	(wire
+		(pts
 			(xy 77.47 111.76) (xy 77.47 115.57)
 		)
 		(stroke
@@ -808,6 +874,16 @@
 			(type default)
 		)
 		(uuid "2c7aaade-d96f-4b3e-96e5-4783a8450627")
+	)
+	(wire
+		(pts
+			(xy 218.44 106.68) (xy 222.25 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31a812b4-2589-443a-b548-0d9f8bc801dc")
 	)
 	(wire
 		(pts
@@ -898,6 +974,16 @@
 			(type default)
 		)
 		(uuid "4944f9a0-269f-406f-96f4-2c1802eaa144")
+	)
+	(wire
+		(pts
+			(xy 45.72 107.95) (xy 45.72 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e17a846-37f7-43f8-8216-db391c7ad994")
 	)
 	(wire
 		(pts
@@ -1012,6 +1098,16 @@
 	)
 	(wire
 		(pts
+			(xy 45.72 135.89) (xy 45.72 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "680185e1-4fe1-41ab-98bf-8d50da88f406")
+	)
+	(wire
+		(pts
 			(xy 100.33 127) (xy 100.33 123.19)
 		)
 		(stroke
@@ -1039,6 +1135,16 @@
 			(type default)
 		)
 		(uuid "78bae70c-7639-41cd-a448-664e064b723b")
+	)
+	(wire
+		(pts
+			(xy 222.25 123.19) (xy 222.25 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "805b8af9-c18c-46ef-afab-dfc1b48e57c5")
 	)
 	(wire
 		(pts
@@ -1135,6 +1241,16 @@
 	)
 	(wire
 		(pts
+			(xy 45.72 121.92) (xy 45.72 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ed70f3a-f199-432c-8a4f-71467a5cbf79")
+	)
+	(wire
+		(pts
 			(xy 22.86 106.68) (xy 22.86 107.95)
 		)
 		(stroke
@@ -1142,6 +1258,16 @@
 			(type default)
 		)
 		(uuid "9f39ec59-3803-497f-a70f-b6405fb1461f")
+	)
+	(wire
+		(pts
+			(xy 41.91 106.68) (xy 45.72 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f56ca32-e5fd-4159-8c48-e19220c3b963")
 	)
 	(wire
 		(pts
@@ -1226,6 +1352,16 @@
 	)
 	(wire
 		(pts
+			(xy 222.25 135.89) (xy 222.25 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b371ca8a-aaa9-443c-9183-bed286468569")
+	)
+	(wire
+		(pts
 			(xy 280.67 96.52) (xy 280.67 85.09)
 		)
 		(stroke
@@ -1243,6 +1379,16 @@
 			(type default)
 		)
 		(uuid "b9e433c8-bb29-4d08-91e9-2d58ea8e0fa1")
+	)
+	(wire
+		(pts
+			(xy 222.25 107.95) (xy 222.25 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba0fca13-0636-42af-8136-97df9021812b")
 	)
 	(wire
 		(pts
@@ -1286,6 +1432,16 @@
 	)
 	(wire
 		(pts
+			(xy 45.72 123.19) (xy 45.72 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c32189c8-f8ca-46f6-a947-51d035142710")
+	)
+	(wire
+		(pts
 			(xy 15.24 85.09) (xy 20.32 85.09)
 		)
 		(stroke
@@ -1323,6 +1479,16 @@
 			(type default)
 		)
 		(uuid "cddbf500-4948-406e-9058-e05391c04bac")
+	)
+	(wire
+		(pts
+			(xy 222.25 139.7) (xy 222.25 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce63cf72-ed7e-4bc6-bd86-1e651e62d10e")
 	)
 	(wire
 		(pts
@@ -1399,6 +1565,16 @@
 	)
 	(wire
 		(pts
+			(xy 45.72 106.68) (xy 45.72 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db68a15a-5e44-49eb-b90e-6db926480fca")
+	)
+	(wire
+		(pts
 			(xy 123.19 127) (xy 128.27 127)
 		)
 		(stroke
@@ -1458,6 +1634,17 @@
 		(uuid "fc4dd908-4505-4423-90c1-1b8fbb1e92ff")
 	)
 	(label "Dout"
+		(at 218.44 106.68 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "214ffeeb-b80f-405a-8221-774618f09f01")
+	)
+	(label "Dout"
 		(at 245.11 107.95 0)
 		(fields_autoplaced yes)
 		(effects
@@ -1467,6 +1654,17 @@
 			(justify left bottom)
 		)
 		(uuid "45033257-905a-4977-afad-762e95b95e7b")
+	)
+	(label "DIN"
+		(at 41.91 106.68 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "63e1b10f-eed2-45ee-a0a8-29f884f88388")
 	)
 	(label "DIN"
 		(at 19.05 106.68 0)
@@ -1635,6 +1833,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 50.8 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "191916a8-c89d-4bf5-b32f-ede6da175434")
+		(property "Reference" "J13"
+			(at 53.34 106.6799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 53.34 109.2199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Library:Input"
+			(at 50.8 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 50.8 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 50.8 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d71b28f6-a3ad-49e4-993d-387bd4563975")
+		)
+		(instances
+			(project "Arbolito Tronco"
+				(path "/b25a3f48-89a6-49ff-b959-7dc4c52bd0bc"
+					(reference "J13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 101.6 90.17 0)
 		(unit 1)
@@ -1695,6 +1960,274 @@
 			(project "Arbolito Tronco"
 				(path "/b25a3f48-89a6-49ff-b959-7dc4c52bd0bc"
 					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 50.8 123.19 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2259a41b-7cac-476b-954b-56e1d5e0f06e")
+		(property "Reference" "J15"
+			(at 53.34 121.9199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 53.34 124.4599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Library:Input"
+			(at 50.8 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 50.8 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 50.8 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "20ed5df9-207c-41fa-8e09-f69891579f0a")
+		)
+		(instances
+			(project "Arbolito Tronco"
+				(path "/b25a3f48-89a6-49ff-b959-7dc4c52bd0bc"
+					(reference "J15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 50.8 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "28386932-1900-4b95-9797-90f8851ee6f5")
+		(property "Reference" "J14"
+			(at 53.34 110.4899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 53.34 113.0299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Library:Input"
+			(at 50.8 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 50.8 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 50.8 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "252f2359-b78c-413b-9a3e-d347e1e641e9")
+		)
+		(instances
+			(project "Arbolito Tronco"
+				(path "/b25a3f48-89a6-49ff-b959-7dc4c52bd0bc"
+					(reference "J14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 227.33 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2aad6d1b-5bd5-4931-9a1c-d53d3325d165")
+		(property "Reference" "J20"
+			(at 229.87 110.4899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 229.87 113.0299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Library:Output"
+			(at 227.33 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 227.33 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 227.33 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d3ce78bd-ae99-406c-bbc0-dbecce0f978c")
+		)
+		(instances
+			(project "Arbolito Tronco"
+				(path "/b25a3f48-89a6-49ff-b959-7dc4c52bd0bc"
+					(reference "J20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 50.8 139.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "34d9a909-0fea-4e16-9254-2af784996495")
+		(property "Reference" "J18"
+			(at 53.34 138.4299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 53.34 140.9699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Library:Input"
+			(at 50.8 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 50.8 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 50.8 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3eaa5f59-a8e3-4afe-b3bb-2b098e6a8945")
+		)
+		(instances
+			(project "Arbolito Tronco"
+				(path "/b25a3f48-89a6-49ff-b959-7dc4c52bd0bc"
+					(reference "J18")
 					(unit 1)
 				)
 			)
@@ -1903,6 +2436,71 @@
 			(project "Arbolito Tronco"
 				(path "/b25a3f48-89a6-49ff-b959-7dc4c52bd0bc"
 					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 45.72 142.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3f279b5e-52f8-4ed0-af8c-2121146ad8b6")
+		(property "Reference" "#PWR024"
+			(at 45.72 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 45.72 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 45.72 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 45.72 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 45.72 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2b393f5e-ad7f-4dfd-967a-17341e14fc24")
+		)
+		(instances
+			(project "Arbolito Tronco"
+				(path "/b25a3f48-89a6-49ff-b959-7dc4c52bd0bc"
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -2519,6 +3117,138 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 45.72 121.92 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "507ab019-e37a-4248-a37c-f13b40967e5f")
+		(property "Reference" "#PWR023"
+			(at 45.72 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 45.72 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 45.72 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 45.72 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 45.72 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8307c6d0-8a15-4389-bcb6-0f8d3f152d63")
+		)
+		(instances
+			(project "Arbolito Tronco"
+				(path "/b25a3f48-89a6-49ff-b959-7dc4c52bd0bc"
+					(reference "#PWR023")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 227.33 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "51e865b0-7768-47dc-8929-589ecf966ac9")
+		(property "Reference" "J19"
+			(at 229.87 106.6799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 229.87 109.2199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Library:Output"
+			(at 227.33 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 227.33 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 227.33 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "53569bf0-031c-4d56-96ba-2fe75f051bb7")
+		)
+		(instances
+			(project "Arbolito Tronco"
+				(path "/b25a3f48-89a6-49ff-b959-7dc4c52bd0bc"
+					(reference "J19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 261.62 90.17 0)
 		(unit 1)
@@ -2645,6 +3375,73 @@
 			(project "Arbolito Tronco"
 				(path "/b25a3f48-89a6-49ff-b959-7dc4c52bd0bc"
 					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 227.33 135.89 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6465cbb7-cbc5-4393-922d-c4037ca87a7d")
+		(property "Reference" "J23"
+			(at 229.87 134.6199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 229.87 137.1599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Library:Output"
+			(at 227.33 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 227.33 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 227.33 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "07469d1e-5d03-4e13-8e09-5bf82416f839")
+		)
+		(instances
+			(project "Arbolito Tronco"
+				(path "/b25a3f48-89a6-49ff-b959-7dc4c52bd0bc"
+					(reference "J23")
 					(unit 1)
 				)
 			)
@@ -2860,6 +3657,140 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
+		(at 50.8 135.89 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6caaf714-dabe-405a-9ca6-a5b392142634")
+		(property "Reference" "J17"
+			(at 53.34 134.6199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 53.34 137.1599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Library:Input"
+			(at 50.8 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 50.8 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 50.8 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1d354b8d-5119-4989-9faf-617f85677e40")
+		)
+		(instances
+			(project "Arbolito Tronco"
+				(path "/b25a3f48-89a6-49ff-b959-7dc4c52bd0bc"
+					(reference "J17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 50.8 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "709fc77b-9067-4790-98a3-37e361a8596e")
+		(property "Reference" "J16"
+			(at 53.34 125.7299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 53.34 128.2699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Library:Input"
+			(at 50.8 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 50.8 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 50.8 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f615589f-e681-4303-8736-571e77d78ac1")
+		)
+		(instances
+			(project "Arbolito Tronco"
+				(path "/b25a3f48-89a6-49ff-b959-7dc4c52bd0bc"
+					(reference "J16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
 		(at 27.94 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2920,6 +3851,73 @@
 			(project "Arbolito Tronco"
 				(path "/b25a3f48-89a6-49ff-b959-7dc4c52bd0bc"
 					(reference "J6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 227.33 123.19 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "839964a5-8b61-4542-84d9-c793b6d8db5f")
+		(property "Reference" "J21"
+			(at 229.87 121.9199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 229.87 124.4599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Library:Output"
+			(at 227.33 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 227.33 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 227.33 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4cb6a46f-3fb0-4c5d-9920-d1831884fbf6")
+		)
+		(instances
+			(project "Arbolito Tronco"
+				(path "/b25a3f48-89a6-49ff-b959-7dc4c52bd0bc"
+					(reference "J21")
 					(unit 1)
 				)
 			)
@@ -3060,6 +4058,71 @@
 			(project "Arbolito Tronco"
 				(path "/b25a3f48-89a6-49ff-b959-7dc4c52bd0bc"
 					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 222.25 142.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8902c8c3-103f-4074-bf2a-015dd0809f68")
+		(property "Reference" "#PWR026"
+			(at 222.25 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 222.25 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 222.25 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 222.25 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 222.25 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fc5c7468-05bb-4846-8e20-30aba4fc8019")
+		)
+		(instances
+			(project "Arbolito Tronco"
+				(path "/b25a3f48-89a6-49ff-b959-7dc4c52bd0bc"
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -3733,6 +4796,73 @@
 			(project "Arbolito Tronco"
 				(path "/b25a3f48-89a6-49ff-b959-7dc4c52bd0bc"
 					(reference "#PWR015")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 227.33 139.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bc6d5a7e-c548-418d-b517-8b769fd80b63")
+		(property "Reference" "J24"
+			(at 229.87 138.4299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 229.87 140.9699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Library:Output"
+			(at 227.33 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 227.33 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 227.33 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "be944fd3-e234-4f42-bb25-c534ca0f6872")
+		)
+		(instances
+			(project "Arbolito Tronco"
+				(path "/b25a3f48-89a6-49ff-b959-7dc4c52bd0bc"
+					(reference "J24")
 					(unit 1)
 				)
 			)
@@ -4544,6 +5674,138 @@
 			(project "Arbolito Tronco"
 				(path "/b25a3f48-89a6-49ff-b959-7dc4c52bd0bc"
 					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 227.33 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f546b175-04ff-4c81-a2f6-e88465415d37")
+		(property "Reference" "J22"
+			(at 229.87 125.7299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 229.87 128.2699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Library:Output"
+			(at 227.33 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 227.33 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 227.33 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "00ff7be7-61de-4836-81a2-44f5f7b0b324")
+		)
+		(instances
+			(project "Arbolito Tronco"
+				(path "/b25a3f48-89a6-49ff-b959-7dc4c52bd0bc"
+					(reference "J22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 222.25 121.92 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f6375763-c5d4-4314-b584-12b23bbb5685")
+		(property "Reference" "#PWR025"
+			(at 222.25 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 222.25 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 222.25 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 222.25 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 222.25 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "19d57251-38b8-4041-8b5d-aa464f96bbe7")
+		)
+		(instances
+			(project "Arbolito Tronco"
+				(path "/b25a3f48-89a6-49ff-b959-7dc4c52bd0bc"
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)

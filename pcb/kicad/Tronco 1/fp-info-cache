@@ -1,4 +1,4 @@
-23750319165345705
+23750319368487003
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -64663,7 +64663,7 @@ Input
 
 
 0
-2
+1
 1
 Library
 LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
